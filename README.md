@@ -1,1 +1,0 @@
-# LGMVIP-data-science
